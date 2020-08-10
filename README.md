@@ -1,5 +1,2 @@
-# resume
-Professional Resume
+Professional Resume of Steven B. Cherry
 
-##. sudo apt install unoconv. 
-##. unoconv -f pdf XXYY.docx
